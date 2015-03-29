@@ -1,5 +1,8 @@
 硈礥常来Git㏑
 add эま
+<<<<<<< HEAD
 pull 眔环狠计沮畐ず甧
 3
 9
+push
+
